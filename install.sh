@@ -1,0 +1,1 @@
+pnpm install && npm link
